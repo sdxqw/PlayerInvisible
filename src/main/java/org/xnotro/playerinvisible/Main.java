@@ -68,6 +68,7 @@ public final class Main extends JavaPlugin implements Listener {
             if (pie.getAction().equals(Action.RIGHT_CLICK_AIR) || pie.getAction().equals(Action.RIGHT_CLICK_BLOCK)) {
 
                 if (!p.hasPermission("plrinvs")) {
+                    
                     // Make You Invisible
                     if (!p.hasMetadata("invisible")) {
                         for (Player ps : Bukkit.getOnlinePlayers()) {
