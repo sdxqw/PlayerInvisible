@@ -1,5 +1,5 @@
 # PlayerInvisible:
-Player Invisible Source (Not Working)
+Player Invisible Source
 
 # TODO:
 - nothing for now
