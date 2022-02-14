@@ -1,0 +1,6 @@
+messages:
+  invisible: "§aYou are now visible!"
+  visible: "§cYou are now invisible!"
+  prefix: "§7[§aPlayerInvisible§7]§r > "
+  perms: "§cYou Dont Have Permissions For Do That"
+

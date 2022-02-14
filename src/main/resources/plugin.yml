@@ -5,3 +5,7 @@ api-version: 1.18
 prefix: PlayerInvisible
 authors: [ xnotro ]
 description: an simple plugin that make player invisible
+permissions:
+  plrinvs:
+    default: op
+    description: permissions for use feather
