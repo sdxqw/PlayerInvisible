@@ -1,0 +1,7 @@
+name: PlayerInvisible
+version: '${project.version}'
+main: org.xnotro.playerinvisible.Main
+api-version: 1.18
+prefix: PlayerInvisible
+authors: [ xnotro ]
+description: an simple plugin that make player invisible
