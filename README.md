@@ -2,7 +2,7 @@
 Player Invisible Source (Not Working)
 
 # TODO:
-- Config System
+- nothing for now
 
 # Source:
 its free and opensource (lel nobody gonna reuse this code)
